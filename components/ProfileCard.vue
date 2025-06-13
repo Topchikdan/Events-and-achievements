@@ -381,7 +381,6 @@ const showMore = ref(false)
   }
 }
 
-/* На очень маленьких (до 400px) — ужимаем всё, уменьшаем шрифты и аватар */
 @media (max-width: 400px) {
   .profile-card {
     .profile-title-row .profile-title { font-size: 0.78rem;}
