@@ -2,7 +2,7 @@
   <nav class="bottom-nav">
     <ul>
       <li>
-        <NuxtLink to="/achievements">
+        <NuxtLink to="/dashboard">
           <span class="icon-wrap">
             <SidebarIcons name="cup" />
           </span>

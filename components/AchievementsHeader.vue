@@ -17,7 +17,7 @@
       <div class="ach-label">Мой опыт</div>
       <div class="ach-value">
         <span class="main-num">250</span>
-        <span class="main-sub">из 1000</span>
+        <span class="main-num">из 1000</span>
       </div>
     </div>
     <div class="ach-card balance">
@@ -25,7 +25,7 @@
       <div class="ach-value">
         <span class="main-num">10</span>
         <span class="octo-gradient">окто</span>
-        <span class="main-sub">коинов</span>
+        <span class="octo-gradient main-sub">коинов</span>
       </div>
     </div>
   </div>
@@ -94,7 +94,7 @@
 .ach-item {
   width: 33px;
   height: 33px;
-  background: #322a5b;
+  background: #53488e;
   border-radius: 7px;
   display: flex;
   align-items: center;
@@ -133,7 +133,6 @@
   color: #b8aed4;
   opacity: 0.74;
   font-size: 22px;
-  margin-left: 2px;
   font-weight: 700;
   @media (max-width: 900px) { font-size: 13px;}
   @media (max-width: 600px) { font-size: 9px;}
