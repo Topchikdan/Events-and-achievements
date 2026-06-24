@@ -1,75 +1,38 @@
-# Nuxt Minimal Starter
+# Events & Achievements
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+**Персональная платформа для отслеживания событий, достижений и профессионального роста.**
 
-## Setup
+Современное веб-приложение на **Nuxt 3**, где можно удобно вести историю своих мероприятий, наград, компетенций и проектов.
 
-Make sure to install dependencies:
 
-```bash
-# npm
+## ✨ Основные возможности
+
+- Отслеживание событий и мероприятий
+- Каталог достижений и наград
+- Визуализация компетенций и навыков
+- Портфолио проектов
+- Красивая персональная карточка профиля
+- Адаптивный дизайн (мобильная версия)
+- Современный и чистый интерфейс
+
+## 🛠 Технологии
+
+- **Nuxt 3** — полный стек на Vue.js
+- **Vue 3** (Composition API)
+- **TypeScript**
+- **Server Side Rendering (SSR)**
+- Современная компонентная архитектура
+
+## 🚀 Как запустить проект
+
+# Клонировать репозиторий
+git clone https://github.com/Topchikdan/Events-and-achievements.git
+
+# Перейти в папку проекта
+cd Events-and-achievements
+
+# Установить зависимости
 npm install
 
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
+# Запустить в режиме разработки
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
